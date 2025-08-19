@@ -1,3 +1,3 @@
 # ListComprehensionsTest
 List Comprehension 
-This repository contains **intermediate and advanced** list comprehension examples in Python.  
+This repository contains intermediate and advanced list comprehension examples in Python.  
